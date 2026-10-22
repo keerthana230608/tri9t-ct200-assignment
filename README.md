@@ -73,4 +73,3 @@ The tests cover the supplied PDFs' irregular nested numbering and out-of-order s
 ## Assignment decisions
 
 See [`APPROACH.md`](APPROACH.md) for the parser edge cases, time/quality choices, matching and staleness rules, and fallback behavior.
-
